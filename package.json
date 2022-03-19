@@ -1,0 +1,22 @@
+{
+  "name": "datagrovermade",
+  "version": "1.0.0",
+  "description": "data-grovermade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon main.js" ,
+    "start": "node main.js"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "tuan",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

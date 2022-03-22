@@ -4,6 +4,8 @@
         "id": 1,
         "name": "Desk Shelf",
         "price": "240",
+        "category" : "Desk",
+        "countInStock": 200,
         "title": {
           "title1": "Elevated and Organized",
           "title2": "Simply Effective",
@@ -38,6 +40,8 @@
         "id": 2,
         "name": "Walnut Laptop Stand",
         "price": "170",
+        "category" : "Stand",
+        "countInStock": 200,
         "title": {
           "title1": "Elevate Your Work",
           "title6": "ORIGIN",
@@ -64,6 +68,7 @@
         "id": 3,
         "name": "Wood Laptop Riser",
         "price": "150",
+        "countInStock": 200,
         "title": {
           "title1": "Most Elevated",
           "title2": "Give your laptop (and your productivity) a boost",
@@ -89,7 +94,9 @@
       {
         "id": 4,
         "name": "Desk Tray",
+        "category" : "Desk",
         "price": "120",
+        "countInStock": 200,
         "title": {
           "title1": "A Place For All Your Tools",
           "title2": "Easily Accessed, Easily Hidden",
@@ -121,6 +128,8 @@
         "id": 5,
         "name": "Leather Desk Pad",
         "price": "140",
+        "category" : "Pad",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -154,6 +163,7 @@
         "id": 6,
         "name": "Wool Felt Desk Pad",
         "price": "70",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -188,6 +198,7 @@
         "id": 7,
         "name": "Wood Monitor Stand",
         "price": "100",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -215,6 +226,7 @@
         "id": 8,
         "name": "Walnut MacBook Dock",
         "price": "100",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -248,6 +260,7 @@
         "id": 9,
         "name": "Walnut MacBook Dock",
         "price": "100",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -277,6 +290,7 @@
         "id": 10,
         "name": "Wood Headphone Stand",
         "price": "160",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -306,6 +320,7 @@
         "id": 11,
         "name": "Wood Apple Keyboard Tray",
         "price": "150",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -339,6 +354,7 @@
         "id": 12,
         "name": "Wood Trackpad Tray",
         "price": "100",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -372,6 +388,7 @@
         "id": 13,
         "name": "Wood Dish",
         "price": "90",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -405,6 +422,7 @@
         "id": 14,
         "name": "Wood Planter",
         "price": "100",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -438,6 +456,7 @@
         "id": 15,
         "name": "Wood Planter",
         "price": "100",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -471,6 +490,7 @@
         "id": 16,
         "name": "Walnut MacBook Dock",
         "price": "100",
+        "countInStock": 200,
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -579,5 +599,16 @@
         "image": "https://grovemade.imgix.net/https%3A%2F%2Fsiteleaf.grovemade.com%2Fuploads%2FGMP0096-desk-shelf-archetypes-D1.jpg?auto=format&ixlib=python-1.1.2&w=500&s=bb9561ab934be221ecd44e7f950c1aa3",
         "classify": ""
       }
+    ],
+    "users":[
+      {
+        "id": 1 ,
+        "email": "hoangtuam09@gmail.com",
+        "passwork" : "123456",
+        "name" : "Tuấn"
+      }
+    ],
+    "order": [
+      
     ]
   }

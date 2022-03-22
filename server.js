@@ -29,7 +29,7 @@ function isAuthenticated({email, password}) {
 }
 
 
-server.post("api/auth/register" , (req , res ) => {
+server.post("register" , (req , res ) => {
     const {email , password} = req.body
     if(isAuthenticated({email , password})) {
         const status = 401 ;
@@ -75,7 +75,7 @@ fs.readFile("./db.json" , (err, data) => {
 })
 
 
-server.post("/api/auth/login" , (req , res) => {
+server.post("/login" , (req , res) => {
     const {email , password} = req.body
     if(isAuthenticated({email , password})) {
         const status = 401 ;

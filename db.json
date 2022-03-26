@@ -6,12 +6,7 @@
         "price": "240",
         "category" : "Desk",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Elevated and Organized",
@@ -49,12 +44,7 @@
         "price": "170",
         "category" : "Stand",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Elevate Your Work",
@@ -83,12 +73,7 @@
         "name": "Wood Laptop Riser",
         "price": "150",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Most Elevated",
@@ -118,12 +103,7 @@
         "category" : "Desk",
         "price": "120",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "A Place For All Your Tools",
@@ -158,12 +138,7 @@
         "price": "140",
         "category" : "Pad",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -199,12 +174,7 @@
         "name": "Wool Felt Desk Pad",
         "price": "70",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -241,12 +211,7 @@
         "name": "Wood Monitor Stand",
         "price": "100",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -276,12 +241,7 @@
         "name": "Walnut MacBook Dock",
         "price": "100",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -317,12 +277,7 @@
         "name": "Walnut MacBook Dock",
         "price": "100",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -354,12 +309,7 @@
         "name": "Wood Headphone Stand",
         "price": "160",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -391,12 +341,7 @@
         "name": "Wood Apple Keyboard Tray",
         "price": "150",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -432,12 +377,7 @@
         "name": "Wood Trackpad Tray",
         "price": "100",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -473,12 +413,7 @@
         "name": "Wood Dish",
         "price": "90",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -515,12 +450,7 @@
         "price": "100",
         "countInStock": 200,
         
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -556,12 +486,7 @@
         "name": "Wood Planter",
         "price": "100",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -597,12 +522,7 @@
         "name": "Walnut MacBook Dock",
         "price": "100",
         "countInStock": 200,
-        "color" : {
-          "color1" : "black",
-          "color2" : "walnut",
-          "color3" : "blue",
-          "color4" : "light"
-        },
+       
         
         "title": {
           "title1": "Set Your Workspace Apart",

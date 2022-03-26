@@ -6,8 +6,17 @@
         "price": "240",
         "category" : "Desk",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Elevated and Organized",
           "title2": "Simply Effective",
@@ -44,8 +53,17 @@
         "price": "170",
         "category" : "Stand",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Elevate Your Work",
           "title6": "ORIGIN",
@@ -73,8 +91,17 @@
         "name": "Wood Laptop Riser",
         "price": "150",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Most Elevated",
           "title2": "Give your laptop (and your productivity) a boost",
@@ -103,8 +130,17 @@
         "category" : "Desk",
         "price": "120",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "A Place For All Your Tools",
           "title2": "Easily Accessed, Easily Hidden",
@@ -138,8 +174,17 @@
         "price": "140",
         "category" : "Pad",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -174,8 +219,17 @@
         "name": "Wool Felt Desk Pad",
         "price": "70",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -211,8 +265,17 @@
         "name": "Wood Monitor Stand",
         "price": "100",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -241,8 +304,17 @@
         "name": "Walnut MacBook Dock",
         "price": "100",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -277,8 +349,17 @@
         "name": "Walnut MacBook Dock",
         "price": "100",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -309,8 +390,17 @@
         "name": "Wood Headphone Stand",
         "price": "160",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -341,8 +431,17 @@
         "name": "Wood Apple Keyboard Tray",
         "price": "150",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -377,8 +476,17 @@
         "name": "Wood Trackpad Tray",
         "price": "100",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -413,8 +521,17 @@
         "name": "Wood Dish",
         "price": "90",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -450,8 +567,17 @@
         "price": "100",
         "countInStock": 200,
         
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -486,8 +612,17 @@
         "name": "Wood Planter",
         "price": "100",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -522,8 +657,17 @@
         "name": "Walnut MacBook Dock",
         "price": "100",
         "countInStock": 200,
-       
-        
+        "color" : {
+          "color1" : "black",
+          "color2" : "walnut",
+          "color3" : "blue",
+          "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -590,8 +734,28 @@
         "content": "The Grovemade Minimalist Wallet, part of the Every Day Carry (EDC) collection, was designed for simplicity and ease of use...",
         "image": "https://grovemade.imgix.net/https%3A%2F%2Fsiteleaf.grovemade.com%2Fuploads%2Fgrovemade-journal-desiging-the-minimalist-wallet-listB-A1.jpg?auto=format&ixlib=python-1.1.2&w=500&s=a34303fc5e8568dba26ce37d0618a711",
         "classify": ""
+      },
+      {
+        "id": 4,
+        "title": "Designing The Desk Collection",
+        "content": "The spark came in 2013, when Ken and Joe made a trip to San Francisco and toured the newly finished headquarters of lodging-service giant Airbnb...",
+        "image": "https://grovemade.imgix.net/https%3A%2F%2Fsiteleaf.grovemade.com%2Fuploads%2Fjournal-desk-listB-A1.jpg?auto=format&ixlib=python-1.1.2&w=500&s=7a97350934988db0d43cb982b7dd7ff7",
+        "classify": ""
+      },
+      {
+        "id": 5,
+        "title": "Making the Desk Tray",
+        "content": "Our desk tray is designed to work seamlessly with our desk shelf system. Come behind the scenes in our workshop to see how each tray is made. Natural cork with machined pockets for just the stuff that you need.",
+        "image": "https://grovemade.imgix.net/https%3A%2F%2Fsiteleaf.grovemade.com%2Fuploads%2FGMP0115-LP-cork-desk-tray-B1.jpg?auto=format&ixlib=python-1.1.2&w=500&s=12cc96cd7950ba3b635e823ee17beaa4",
+        "classify": ""
+      },
+      {
+        "id": 6,
+        "title": "A Place For Everything",
+        "content": "We've looked at hundreds of customers desks, and we're constantly intrigued and curious to see all the ways the desk shelf system is implemented around the world.",
+        "image": "https://grovemade.imgix.net/https%3A%2F%2Fsiteleaf.grovemade.com%2Fuploads%2FGMP0096-desk-shelf-archetypes-D1.jpg?auto=format&ixlib=python-1.1.2&w=500&s=bb9561ab934be221ecd44e7f950c1aa3",
+        "classify": ""
       }
-      
     ],
     "users":[
       {

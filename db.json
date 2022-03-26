@@ -12,6 +12,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Elevated and Organized",
           "title2": "Simply Effective",
@@ -54,6 +59,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Elevate Your Work",
           "title6": "ORIGIN",
@@ -86,6 +96,11 @@
           "color2" : "walnut",
           "color3" : "blue",
           "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
         },
         "title": {
           "title1": "Most Elevated",
@@ -120,6 +135,11 @@
           "color2" : "walnut",
           "color3" : "blue",
           "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
         },
         "title": {
           "title1": "A Place For All Your Tools",
@@ -160,6 +180,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -199,6 +224,11 @@
           "color2" : "walnut",
           "color3" : "blue",
           "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
         },
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -241,6 +271,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -274,6 +309,11 @@
           "color2" : "walnut",
           "color3" : "blue",
           "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
         },
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -315,6 +355,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -351,6 +396,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title4": "Technical Specifications",
@@ -386,6 +436,11 @@
           "color2" : "walnut",
           "color3" : "blue",
           "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
         },
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -427,6 +482,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -466,6 +526,11 @@
           "color2" : "walnut",
           "color3" : "blue",
           "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
         },
         "title": {
           "title1": "Set Your Workspace Apart",
@@ -508,6 +573,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -548,6 +618,11 @@
           "color3" : "blue",
           "color4" : "light"
         },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
+        },
         "title": {
           "title1": "Set Your Workspace Apart",
           "title2": "Uniquely Layered",
@@ -587,6 +662,11 @@
           "color2" : "walnut",
           "color3" : "blue",
           "color4" : "light"
+        },
+        "size" : {
+          "size1" : "small",
+          "size2" : "medium",
+          "size3": "large"
         },
         "title": {
           "title1": "Set Your Workspace Apart",
